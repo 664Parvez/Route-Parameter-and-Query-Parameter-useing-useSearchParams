@@ -1,3 +1,5 @@
+{/* url : localhost/post/?name=parvez&age=24 */}
+
 import React, { useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 
